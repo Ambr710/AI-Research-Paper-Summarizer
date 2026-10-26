@@ -4,7 +4,7 @@ scikit-learn==1.5.1
 networkx==3.3
 numpy==1.26.4
 python-dotenv==1.0.1
-
+openai==1.40.0
 # Optional (only needed if you want real LLM-powered summaries/answers instead of
 # the built-in free extractive engine). Uncomment whichever you plan to use:
 # openai==1.40.0
